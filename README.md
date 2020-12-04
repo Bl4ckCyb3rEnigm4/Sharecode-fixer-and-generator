@@ -9,7 +9,7 @@ When started the tool it will generate a sharecode for every copied
 url or the direct link for every sharecode copied and it'll alert you using 
 a notification. It automatically detects if it's a link or a sharecode. When 
 you don't want to use the tool, just close it from the tray icon, by 
-clicking on it with the right button and selection "close". 
+clicking on it with the right button and selecting "close". 
 ---------------------------------------------------------------------------
 |                 if you use my code you have to credit me.               |
 ---------------------------------------------------------------------------
